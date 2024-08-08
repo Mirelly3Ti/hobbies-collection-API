@@ -1,1 +1,1 @@
-# hobbies-collection-API
+# hobbies-collection-api
